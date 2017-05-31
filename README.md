@@ -1,2 +1,2 @@
 # Hello-Git
-It is Simple project to understatnd codding.
+Itis Simple project to understatnd codding and provide way to learn project structure.
